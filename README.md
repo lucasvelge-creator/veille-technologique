@@ -1,2 +1,2 @@
 # veille-technologique
-Veille technologique BTS SIO SISR
+Veille technologique Lucas Velge BTS SIO SISR
