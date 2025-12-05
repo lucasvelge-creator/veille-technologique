@@ -1,27 +1,30 @@
 # veille-technologique
 Veille technologique Lucas Velge BTS SIO SISR
-Velge Lucas
-Information
-Année de naissance
+<br> Velge Lucas
+<br> Information
+<br> Année de naissance
 • 2007
-Portfolio
+<br> Portfolio
 • Url:
-Ville
+<br> Ville
 • Livilliers
-Mail
+<br> Mail
 • lucas.velge@gmail.com
-Bac obtenu
+<br> Bac obtenu
 • BAC PRO Option RISC
 • Session bac 2025
 • Jean Perrin Saint ouen l'âumone
-Moyen de transport
+<br> Moyen de transport
 • Transport en commun (bus,RER)
 • Voiture (plus tard)
-Temps de transport
+<br> Temps de transport
 • entre 30 et 60 minutes
-Projet pro
-Années d'études
+<br> Projet pro
+<br> Années d'études
 • Bac
-Métier visé
+<br> Métier visé
 • administrateur réseau
-Mon image
+<br> 
+# Les Outils que je vais utilisé 
+## Youtube
+J’utilise YouTube pour ma veille technologique car la plateforme propose de nombreuses vidéos de tests, de tutoriels et de présentations de nouvelles imprimantes 3D, ce qui permet de suivre facilement les dernières évolutions du secteur.
