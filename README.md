@@ -35,4 +35,21 @@ J’utiliserais Feedly pour centraliser facilement toutes mes sources d’inform
 ## Google
 J’utiliserais Google pour trouver rapidement des informations fiables et répondre à mes questions.
 ![google-1088003_640](https://github.com/user-attachments/assets/ac7042de-c9e1-431d-8f32-300329e1e47f)
-## 
+# Les marques d'impressions 3D
+## Bambu Lab
+Bambu Lab est une entreprise spécialisée dans les imprimantes 3D hautes performances, reconnue pour ses machines rapides, précises et faciles à utiliser. Elle se distingue par son intégration logicielle avancée et ses innovations comme l’impression multi-matériaux automatisée.
+<img width="640" height="335" alt="image" src="https://github.com/user-attachments/assets/454e632b-f697-4bc1-9130-63a3dcd64d09" />
+## Prusa
+Réputée pour sa fiabilité, sa qualité d’impression et son approche open-source.
+<img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/3c3eb771-70bd-476b-a288-38d6b54ad51b" />
+
+## Creality
+Marque très populaire proposant des imprimantes 3D abordables, idéales pour débutants et makers.
+<img width="500" height="294" alt="image" src="https://github.com/user-attachments/assets/f30f7044-4c81-4733-b91b-f9d7c11616dd" />
+
+## Ultimaker
+Spécialisée dans les imprimantes 3D professionnelles pour le prototypage et l’industrie.
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1f165c10-4c69-44c9-b1a4-f913b3bfe8b1" />
+
+
+
