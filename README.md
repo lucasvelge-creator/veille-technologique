@@ -51,5 +51,15 @@ Marque très populaire proposant des imprimantes 3D abordables, idéales pour d�
 Spécialisée dans les imprimantes 3D professionnelles pour le prototypage et l’industrie.
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1f165c10-4c69-44c9-b1a4-f913b3bfe8b1" />
 
+# Mes articles
+## Comment Kind Designs révolutionne l’endiguement côtier grâce à l’impression 3D
+### Kind Designs fait parler de lui avec une innovation qui pourrait bien changer la donne en matière de protection contre les inondations. En utilisant l’impression 3D, cette entreprise met au point des systèmes d’endiguement plus respectueux de l’environnement. Une démarche qui s’inscrit dans un contexte où la France est soumise à des régulations strictes sur les projets de digues, sous l’œil attentif des codes environnementaux et hydrauliques.
+https://www.imprimeren3d.net/comment-kind-designs-revolutionne-lendiguement-cotier-grace-a-limpression-3d-012026-15450/
+
+## Snapmaker U1, le test multicouleurs sans déchet
+### Fin 2025, le marché des imprimantes 3D multi-matériaux prend un nouveau virage. On assiste à la démocratisation des machines dites “Tool Changer” (à changement d’outils), proposant un changement automatique de la tête d’impression à des prix enfin abordables.
+https://www.lesimprimantes3d.fr/test-snapmaker-u1-multicouleurs-sans-dechet-20260122/
+
+
 
 
