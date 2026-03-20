@@ -76,6 +76,45 @@ L’imprimante 3D est très utile pour une veille technologique car elle permet 
 ## Les inconvénients d'une imprimante 3D
 L’imprimante 3D présente aussi des inconvénients dans une veille technologique. Elle peut être lente, surtout pour des objets complexes. Les matériaux et les machines peuvent coûter cher. La qualité des objets dépend beaucoup de l’imprimante utilisée. De plus, elle nécessite des compétences techniques (modélisation, réglages). Enfin, il existe des limites de matériaux et de solidité, ce qui peut restreindre certains usages.
 
+# Tableaux d'évaluation des sources d'information
+Objectif de la veille technologie
+Sujet Imprimante 3D
+
+
+
+
+
+
+
+
+
+
+Sources d’information
+Crédibilité de l’auteur
+Fiabilité de la source
+Objectivité de l’information
+Exactitude l’information
+Actualité
+Pertinence de l’information
+Site : https://www.imprimeren3d.net/comment-kind-designs-revolutionne-lendiguement-cotier-grace-a-limpression-3d-012026-15450/
+-3
+Valentin
+Passionné et reste aux actualité des imprimante 3D
+-3
+Site dédié au imprimante 3D
+-4
+-Les informations sont précises, les termes sont compréhensibles par tous, des exemples concret.
+3
+Les avis du postes sont du même avis que le créateur du poste
+4
+L’article date du 23 janvier 2026
+« 
+L’article correspond au sujet de ma veille technologique.
+
+
+
+
+
 
 
 
