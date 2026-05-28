@@ -60,6 +60,14 @@ https://www.imprimeren3d.net/comment-kind-designs-revolutionne-lendiguement-coti
 ### Fin 2025, le marché des imprimantes 3D multi-matériaux prend un nouveau virage. On assiste à la démocratisation des machines dites “Tool Changer” (à changement d’outils), proposant un changement automatique de la tête d’impression à des prix enfin abordables.
 https://www.lesimprimantes3d.fr/test-snapmaker-u1-multicouleurs-sans-dechet-20260122/
 
+## Fabrication additive chez Cadillac Formula 1 Team
+### L’écurie Cadillac F1 Team mise sur l’impression 3D pour aller plus vite et être plus efficace. En installant plusieurs imprimantes SLA de 3D Systems, elle peut fabriquer rapidement des prototypes et des pièces de rechange avec des matériaux techniques.
+https://www.lesimprimantes3d.fr/semaine-impression-3d-541-20260517/#Fabrication_additive_chez_Cadillac_Formula_1_Team
+
+## Révolution dans le traitement du cancer du sein 
+### Un petit implant imprimé en 3D, placé au contact d’une tumeur du sein, pourrait changer la façon d’administrer certains traitements. L’idée est simple: on vise la zone malade au lieu d’inonder tout l’organisme. À l’intérieur de l’implant, des capsules à l’échelle nanométrique transportent un agent anticancéreux et le libèrent directement là où il doit agir. 
+https://www.imprimeren3d.net/revolution-dans-le-traitement-du-cancer-du-sein-un-implant-3d-piege-la-chimiotherapie-la-ou-elle-doit-agir-052026-15691/
+
 # Qu'est ce que une imprimante 3D
 ## A quoi elle sert ?
 L’imprimante 3D est une innovation technologique qui a profondément transformé la manière de concevoir et de fabriquer des objets. Contrairement aux méthodes de production traditionnelles, qui consistent souvent à retirer de la matière (comme le découpage ou le fraisage), l’impression 3D fonctionne par ajout de matière, couche par couche, jusqu’à obtenir un objet final en trois dimensions.
@@ -75,41 +83,6 @@ L’imprimante 3D est très utile pour une veille technologique car elle permet 
 
 ## Les inconvénients d'une imprimante 3D
 L’imprimante 3D présente aussi des inconvénients dans une veille technologique. Elle peut être lente, surtout pour des objets complexes. Les matériaux et les machines peuvent coûter cher. La qualité des objets dépend beaucoup de l’imprimante utilisée. De plus, elle nécessite des compétences techniques (modélisation, réglages). Enfin, il existe des limites de matériaux et de solidité, ce qui peut restreindre certains usages.
-
-# Tableaux d'évaluation des sources d'information
-Objectif de la veille technologie
-Sujet Imprimante 3D
-
-
-
-
-
-
-
-
-
-
-Sources d’information
-Crédibilité de l’auteur
-Fiabilité de la source
-Objectivité de l’information
-Exactitude l’information
-Actualité
-Pertinence de l’information
-Site : https://www.imprimeren3d.net/comment-kind-designs-revolutionne-lendiguement-cotier-grace-a-limpression-3d-012026-15450/
--3
-Valentin
-Passionné et reste aux actualité des imprimante 3D
--3
-Site dédié au imprimante 3D
--4
--Les informations sont précises, les termes sont compréhensibles par tous, des exemples concret.
-3
-Les avis du postes sont du même avis que le créateur du poste
-4
-L’article date du 23 janvier 2026
-« 
-L’article correspond au sujet de ma veille technologique.
 
 
 
